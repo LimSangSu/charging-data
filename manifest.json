@@ -1,0 +1,20 @@
+{
+  "stations": {
+    "version": "2026-07-30",
+    "url": "stations.json.gz",
+    "sha256": "a123d59f309e771d7b698c67c66245ea9dad2467c1a78841aa0b34a4650433e0",
+    "rows": 100270
+  },
+  "memberPricing": {
+    "version": "2026-07-30",
+    "url": "member.json.gz",
+    "sha256": "63815006a61c273814c3aa29d31fd99da5294298d4b646c3bc2b58dc92593234",
+    "rows": 101
+  },
+  "roamingPricing": {
+    "version": "2026-07-30",
+    "url": "roaming.json.gz",
+    "sha256": "ef3b1cdd57fa6f62c933401d941335e8c51701f063c122eac4bcf0bf2409dfeb",
+    "rows": 4109
+  }
+}

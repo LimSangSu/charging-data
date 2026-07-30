@@ -1,0 +1,6 @@
+# 이 폴더(dist/)는 공개 배포용 별도 repo(charging-data)로 관리한다.
+# 배포에 필요한 것만 허용(allowlist) — .DS_Store·로그·샘플 등 나머지는 전부 무시.
+*
+!.gitignore
+!manifest.json
+!*.json.gz
