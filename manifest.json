@@ -1,8 +1,8 @@
 {
   "stations": {
-    "version": "2026-07-30",
+    "version": "2026-07-31",
     "url": "stations.json.gz",
-    "sha256": "a123d59f309e771d7b698c67c66245ea9dad2467c1a78841aa0b34a4650433e0",
+    "sha256": "467e56a7e88bb681c4be76ae84ce3904a257f6842a2bde7a0221da3b73fbe228",
     "rows": 100270
   },
   "memberPricing": {
