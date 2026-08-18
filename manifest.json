@@ -1,8 +1,8 @@
 {
   "memberPricing": {
-    "version": "2026-08-18",
+    "version": "2026-08-19",
     "url": "member.json.gz",
-    "sha256": "37af0dc0066c621255ad8d808092dadadf5d3bf55ca0cedbce0162a7ea05cb80",
+    "sha256": "104f9d42e4ad4904acfb19f2c2fa4be42aa4dba94df484ea4b60c2b72c6a15aa",
     "rows": 98
   },
   "roamingPricing": {
