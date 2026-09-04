@@ -12,9 +12,9 @@
     "rows": 3837
   },
   "stations": {
-    "version": "2026-09-04",
+    "version": "2026-09-05",
     "url": "stations.json.gz",
-    "sha256": "b5fcce12926a647f92b6a81e4159cee5e76f1e3185cc17479d666066241c443e",
+    "sha256": "81c669944a29a02e127d83e681c88cda87990aebe4e823a1e2824ed16fcccc2e",
     "rows": 100041
   }
 }
