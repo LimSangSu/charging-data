@@ -1,20 +1,20 @@
 {
   "memberPricing": {
-    "version": "2026-10-02",
+    "version": "2026-10-12",
     "url": "member.json.gz",
-    "sha256": "8e2aa2e699deb8e58037f6efd9d8f2449cdb7b1479854abd8256873cb9c2abd5",
+    "sha256": "6136a37e23a8ae75734c87d1e5b14874577199dab30dff9f58f7f5644581adbc",
     "rows": 103
   },
   "roamingPricing": {
-    "version": "2026-10-06",
+    "version": "2026-10-12",
     "url": "roaming.json.gz",
-    "sha256": "c245b775adaec573810315375b3da4e5ae67e5a8bded392248af2595a0639fcf",
-    "rows": 3833
+    "sha256": "a9c9489b0422b56280afa0524dfde14a848bead1cad4b01d193bda49c27c61e5",
+    "rows": 3771
   },
   "stations": {
-    "version": "2026-10-06",
+    "version": "2026-10-12",
     "url": "stations.json.gz",
-    "sha256": "ebaeaf7f76237db60375d564563763117593e32a4cfa8c4e84e1a473c285fd66",
-    "rows": 99951
+    "sha256": "453272ac2266e902c360cdfc72dfc9a3898171fb4ad377d46f586422a7dd0df0",
+    "rows": 100097
   }
 }
