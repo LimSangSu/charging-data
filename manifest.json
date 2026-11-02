@@ -6,15 +6,15 @@
     "rows": 103
   },
   "roamingPricing": {
-    "version": "2026-10-30",
+    "version": "2026-11-02",
     "url": "roaming.json.gz",
-    "sha256": "43a58fb5eca8c0c467201bf7db75e92c19ad4cabfd580d15d4d8acec2ae2a014",
-    "rows": 3633
+    "sha256": "66efe870442dda232ffff74f561eda7c07bbe10507454e0383ecc6bd8b299ec6",
+    "rows": 3703
   },
   "stations": {
-    "version": "2026-10-30",
+    "version": "2026-11-02",
     "url": "stations.json.gz",
-    "sha256": "bd9a534ea9488908909a9a5b7f759e04c89abec55e523941fa429bac72fa88d5",
-    "rows": 100042
+    "sha256": "822d86ccda61742050d503554f976231670424f5aaaeafe4775e3a0bf1abdfee",
+    "rows": 100081
   }
 }
